@@ -20,3 +20,10 @@ Pattern3:
 
 ![capture](https://user-images.githubusercontent.com/33577947/49532792-54df8700-f8e3-11e8-9b78-fec57aa9082b.PNG)
 
+
+Pattern4:
+
+![capture](https://user-images.githubusercontent.com/33577947/49584191-7f335200-f980-11e8-9170-929d00dcd416.PNG)
+
+
+Pattern5:
