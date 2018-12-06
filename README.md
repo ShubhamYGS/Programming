@@ -27,3 +27,10 @@ Pattern4:
 
 
 Pattern5:
+
+![capture](https://user-images.githubusercontent.com/33577947/49584421-519ad880-f981-11e8-8b6c-c84b554723bd.PNG)
+
+
+Pattern6:
+
+![capture](https://user-images.githubusercontent.com/33577947/49584746-43998780-f982-11e8-8862-29361c0a8d35.PNG)
