@@ -1,3 +1,4 @@
+//logic1
 #include<stdio.h>
 int main()
 {
@@ -19,4 +20,23 @@ int main()
 /*Ouput:
 Enter any Number: 56354
 The Reverse Number is: 45365
+*/
+
+/*Logic: 2
+#include<stdio.h>
+int main()
+{
+	int num,rem;
+	
+	printf("Enter any number: ");
+	scanf("%d",&num);
+		
+	printf("The reverse of %d is: ",num);
+	while(num>0)
+	{
+		rem=num%10;
+		num=num/10;
+		printf("%d",rem);
+	}
+}
 */
