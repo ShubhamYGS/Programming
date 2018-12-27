@@ -51,6 +51,11 @@ int main()
 	printf("\n\n\n\t\t\tUse of strupr()");
 	printf("\nThe original string is: %s",str3);
 	printf("\nThe Lowercase string is: %s",strupr(str3));
+	
+	//strrev() = Reverse a given String
+	printf("\n\n\n\t\t\tUse of strrev()");
+	printf("\nOriginal String: %s",str3);
+	printf("\nReverse of String: %s",strrev(str3));
 
 	return 0;
 }
@@ -83,4 +88,9 @@ The Lowercase string is: shubhamygs
                         Use of strupr()
 The original string is: shubhamygs
 The Lowercase string is: SHUBHAMYGS
+
+
+                        Use of strrev()
+Original String: SHUBHAMYGS
+Reverse of String: SGYMAHBUHS
 */
